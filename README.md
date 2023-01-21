@@ -1,8 +1,10 @@
-# rocketSeat.nlwsetup2023.explorer
+<h1 align="center"> [Habits! Trilha Explorer] </h1>
 
-<h1 align="center"> Habits! Trilha Explorer</h1>
+<p align="center"><a href="https://fernandoaquilini.github.io/rocketSeat.nlwsetup2023.explorer/">Conheça a Plataforma!!</a>
+</p>
+<br>
 
-<p align="center">
+<p>
 Treimaneto promovido pela <a href="https://rocketseat.com.br/">@Rocketseat.</a> para aprimoramento de conteúdos HTML, CSS e  JavaScript, Git e Figma. <br/>
 </p>
 <br>
@@ -10,6 +12,7 @@ Treimaneto promovido pela <a href="https://rocketseat.com.br/">@Rocketseat.</a> 
 <p align="center">
   <img alt="App Habits" src="./assets/cover.jpg" width="100%">
 </p>
+<br>
 
 ## 🚀 Tecnologias
 
@@ -19,7 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
-</br>
+  </br>
 
 Desenvolvivo por [Fernando Aquilini!](https://github.com/fernandoaquilini)
