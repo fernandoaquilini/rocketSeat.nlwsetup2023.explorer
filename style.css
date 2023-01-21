@@ -19,6 +19,9 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 48px;
+  position: fixed;
+  width: 100%;
+  background-color: #09090a;
 }
 
 button {
@@ -38,7 +41,8 @@ button {
 
 #form-habits {
   display: flex;
-  padding: 0 48px;
+  padding: 182px 48px 48px;
+  width: fit-content;
 }
 
 .habits {
@@ -46,7 +50,6 @@ button {
   flex-direction: column;
   gap: 24px;
   margin-top: 60px;
-
 }
 .habit {
   width: 64px;
@@ -69,10 +72,10 @@ button {
 }
 .day div {
   margin-bottom: 8px;
-  font-family: 'Roboto Mono';
+  font-family: "Roboto Mono";
   font-size: 20px;
   line-height: 125%;
-  color: #A1A1AA;
+  color: #a1a1aa;
   text-align: center;
 }
 
@@ -90,4 +93,10 @@ input {
 input:checked {
   background: #8b5cf6;
   border: 2px solid #a78bfa;
+}
+
+@media (max-width: 600px) {
+  button div {
+    display: none;
+  }
 }
